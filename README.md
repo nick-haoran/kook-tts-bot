@@ -1,4 +1,4 @@
-# kook-tts-bot
+# KOOK-TTS-BOT
 
 ## 配置文件：tts_config.json
 
